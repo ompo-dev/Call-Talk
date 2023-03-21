@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Desktop Demo](crowdfundin/telas2.png)
+![Desktop Demo](Call-Talk/public/telas3.png)
 
 ### Projeto
 
